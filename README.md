@@ -2,8 +2,6 @@
 
 This repository implements model extraction attacks on Graph Neural Networks (GNNs), replicating the methodologies described in the paper by Bang Wu, Xiangwen Yang, Shirui Pan, and Xingliang Yuan. The implementation includes several attack scenarios, each simulating different levels of knowledge an attacker might possess.
 
-Here's how you can integrate the provided description into the README file using markdown syntax:
-
 ---
 
 ## Attack Realization
