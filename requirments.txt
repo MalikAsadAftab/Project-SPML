@@ -1,0 +1,5 @@
+torch==2.0.1            # PyTorch for deep learning
+dgl==1.1.0              # Deep Graph Library for graph neural networks
+numpy==1.24.1           # NumPy for numerical operations
+scikit-learn==1.2.2     # scikit-learn for evaluation metrics like roc_auc_score and log_loss
+networkx==3.0           # NetworkX for graph manipulation
